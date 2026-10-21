@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "Qualifies and componentwise-compares finite topical knowledge-cell product listings without central ranking or publication.",
   "type": "module",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "files": [
     "scripts",
     "content",
@@ -40,5 +40,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/topical-knowledge-cell-brokerage-service.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
