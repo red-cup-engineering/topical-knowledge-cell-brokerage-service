@@ -1,1 +1,1 @@
-{"keys":[{"crv":"Ed25519","x":"MTbvT-j3ub_cs6bgbsCNnwRhb8Sy3777NU5gjplQYtM","kty":"OKP","kid":"topical-knowledge-cell-brokerage-service-ed25519","alg":"EdDSA","use":"sig"}]}
+{"keys":[{"crv":"Ed25519","x":"_prIw69Ado-lwPvUsXrmamRttzZ3v2dLjsw9u5ksHxc","kty":"OKP","kid":"topical-knowledge-cell-brokerage-service-ed25519-2026-10-21","alg":"EdDSA","use":"sig"}]}
